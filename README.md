@@ -7,4 +7,4 @@ This challenge was given to refactor existing code from a fake company called Ho
 GitHub Repo: https://github.com/FuzzMoonki/Challenge1---Horiseon
 Live URL: https://fuzzmoonki.github.io/Challenge1---Horiseon/
 
-![image]()
+![image](webpage.png)
